@@ -2,7 +2,7 @@
 
 Method : POST
 
-URL : localhost:8088/schindler/testUser/getUserInfo
+URL : localhost:8080/schindler/testUser/getUserInfo
 
 Input :
 

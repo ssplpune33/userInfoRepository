@@ -1,1 +1,8 @@
-1.
+1.get the clone from git 
+2.create the workspace
+3.import the project in eclips or sts
+4.add sql script in your db (MySql mariadb)or any
+5.go to project , open application.property file
+6.set username and password ,url,according to your db,set context-path
+7.run the project (right click on project->Run As->Spring Boot App)
+8.To test on POSTMAN use text files
