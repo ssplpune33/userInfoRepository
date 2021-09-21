@@ -1,0 +1,26 @@
+//when click on Submit button of 4 number screen of SHO
+
+Method : POST
+
+URL : localhost:8088/schindler/testUser/getUserInfo
+
+Input :
+
+{
+   
+        "id": "2",
+        "actionFlag" :"E"
+}
+
+
+Output :
+
+{
+    "id": 2,
+    "firstName": "Umesh",
+    "lastName": "Kadam",
+    "dob": "1991-01-07T00:00:00.000+00:00",
+    "mobileNumber": "9876544578",
+    "city": "Pune",
+    "actionFlag": null
+}

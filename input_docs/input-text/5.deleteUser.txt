@@ -1,0 +1,18 @@
+//when click on Submit button of 4 number screen of SHO
+
+Method : POST
+
+URL : localhost:8088/schindler/testUser/getUserInfo
+
+Input :
+
+{  
+    "id": 2,
+    "actionFlag": "D"
+}
+
+
+Output :
+{
+    "message": "User Deleted Successfuly"
+}

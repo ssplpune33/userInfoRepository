@@ -1,0 +1,23 @@
+//when click on Submit button of 4 number screen of SHO
+
+Method : POST
+
+URL : localhost:8088/schindler/testUser/getUserInfo
+
+Input :
+
+{
+    "firstName": "Raj",
+     "lastName": "Kumar",
+      "mobileNumber": "9876544578",
+       "city": "Pune",
+        "dob": "2021-01-08",
+        "actionFlag" :"A"
+}
+
+
+Output :
+
+{
+    "message": "User Add Successfuly"
+}
